@@ -27,7 +27,7 @@
 
     </link>
 
-      <!-- CHASSIS LINK-->
+     
 
     <joint name="chassis_joint" type="fixed">
         <parent link="base_link"/>
@@ -46,7 +46,7 @@
         </visual>
       </link>  
 
-      
+
  
 
 </robot>
