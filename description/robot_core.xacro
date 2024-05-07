@@ -17,8 +17,12 @@
         <color rgba="0 0 0 1" />
     </material>
 
+    <!--base link-->
+
 <link name="base_link">
 </link>
+
+    <!--chassis link-->
 
 <joint name="chassi_joint" type="fixed">
     <parent link="base_link"/>
